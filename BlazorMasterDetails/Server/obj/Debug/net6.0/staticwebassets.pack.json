@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\296a92a0-fc84-4408-8e20-a8a2dc55375e.jpg",
+      "PackagePath": "staticwebassets\\Images\\296a92a0-fc84-4408-8e20-a8a2dc55375e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\3a1e04b5-d3e2-4b16-9f49-93ada4e9ad73.jpg",
+      "PackagePath": "staticwebassets\\Images\\3a1e04b5-d3e2-4b16-9f49-93ada4e9ad73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\566b5d28-49e4-46bd-9066-f00ee58f5eeb.jpg",
+      "PackagePath": "staticwebassets\\Images\\566b5d28-49e4-46bd-9066-f00ee58f5eeb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\57fddb8b-84cf-4dd4-b3c6-a5c8f171c358.jpg",
+      "PackagePath": "staticwebassets\\Images\\57fddb8b-84cf-4dd4-b3c6-a5c8f171c358.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\58f34c03-b026-41ee-b18e-0438008b3fb1.jpg",
+      "PackagePath": "staticwebassets\\Images\\58f34c03-b026-41ee-b18e-0438008b3fb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\5f5c538e-0725-422e-957d-08c5f02e7894.jpg",
+      "PackagePath": "staticwebassets\\Images\\5f5c538e-0725-422e-957d-08c5f02e7894.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\60dbd344-809f-4aa8-b8e2-fbc15fe25d5f.png",
+      "PackagePath": "staticwebassets\\Images\\60dbd344-809f-4aa8-b8e2-fbc15fe25d5f.png"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\7515e8d2-1482-475c-977b-299a47764d71.jpg",
+      "PackagePath": "staticwebassets\\Images\\7515e8d2-1482-475c-977b-299a47764d71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\c8a20990-2ccf-4746-9770-7cc367376a3a.jpg",
+      "PackagePath": "staticwebassets\\Images\\c8a20990-2ccf-4746-9770-7cc367376a3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\Images\\e65b512c-1d2e-4493-b5ce-672221777263.jpg",
+      "PackagePath": "staticwebassets\\Images\\e65b512c-1d2e-4493-b5ce-672221777263.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\Complete Blazor Project\\Project_Blazor\\BlazorMasterDetails\\BlazorMasterDetails\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorMasterDetails.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorMasterDetails.Server.props",
+      "PackagePath": "build\\BlazorMasterDetails.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorMasterDetails.Server.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMasterDetails.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorMasterDetails.Server.props",
+      "PackagePath": "buildTransitive\\BlazorMasterDetails.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

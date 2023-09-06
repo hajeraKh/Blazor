@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorMasterDetails.Client
+build_property.RootNamespace = BlazorMasterDetails.Client
+build_property.ProjectDir = C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/MasterDetails/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyRGV0YWlsc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/MasterDetails/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyRGV0YWlsc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/MasterDetails/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyRGV0YWlsc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/MasterDetails/PatientForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyRGV0YWlsc1xQYXRpZW50Rm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Tests/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Tests/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Tests/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Pages/Tests/TestList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-scikho2whd
+
+[C:/Users/student/Desktop/Complete Blazor Project/Project_Blazor/BlazorMasterDetails/BlazorMasterDetails/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-h3vvr7i4em

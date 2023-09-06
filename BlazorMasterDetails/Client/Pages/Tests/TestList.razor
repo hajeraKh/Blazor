@@ -1,0 +1,62 @@
+﻿@page "/testList"
+@using BlazorMasterDetails.Shared
+@using Blazored.Toast.Services
+@inject HttpClient http
+@inject IToastService toastService
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="display-4">Tests</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a href="/Tests/Create" class="btn btn-primary btn-sm">Add New Test</a>
+        </div>
+        @if (tests is null)
+        {
+            <div>Loading...</div>
+        }
+        else
+        {
+            <table class="table table-bordered table-striped table-sm">
+                <thead class="table-light">
+                    <tr>
+                        <th>Test name</th>
+                        <th>Action</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    @foreach (var t in tests)
+                    {
+                        <tr>
+                            <td>@t.TestName</td>
+                           
+                            <th>
+                                <a class="btn btn-success btn-sm" href="/Tests/edit/@t.TestId"><i class="bi bi-pencil">Edit</i></a>
+                                <a class="btn btn-danger btn-sm" href="/Tests/delete/@t.TestId"><i class="bi bi-trash">Delete</i></a>
+                            </th>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+
+@code {
+    private List<Test> tests;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadTests();
+    }
+
+    private async Task LoadTests()
+    {
+        tests = await http.GetFromJsonAsync<List<Test>>("api/Tests");
+       
+    }
+}
+
+
+

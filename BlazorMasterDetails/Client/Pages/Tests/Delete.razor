@@ -1,0 +1,60 @@
+﻿@page "/Tests/delete/{TestId:int}"
+@using BlazorMasterDetails.Shared
+@using Blazored.Toast.Services
+@inject HttpClient http
+@inject IToastService toastService
+@inject NavigationManager nav
+
+<div class="row">
+    <div class="col-12">
+        @if (test is null)
+        {
+            <div>Loading...</div>
+        }
+        else
+        {
+            <EditForm Model="@test" OnValidSubmit="DeleteTest">
+                <h3 class="display-4">Delete Test</h3>
+                <DataAnnotationsValidator />
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@test.TestName">Test name</label>
+                    <div class="col-4">
+                        <InputText @bind-Value="test.TestName" class="form-control" />
+                        <ValidationMessage For="@(()=>test.TestName)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-primary">Delete</button>
+
+                </div>
+
+            </EditForm>
+        }
+    </div>
+    <div class="col-12">
+        <a href="/testList" class="btn btn-link">Back to list</a>
+    </div>
+</div>
+
+
+@code {
+    [Parameter]
+    public int TestId { get; set; }
+
+    private Test test = new();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        test = await http.GetFromJsonAsync<Test>($"api/Tests/{TestId}");
+    }
+    private async Task DeleteTest()
+    {
+        var response = await http.DeleteAsync($"api/Tests/{TestId}");
+        if (response.IsSuccessStatusCode)
+        {
+            toastService.ShowSuccess("Data saved successfully", "Success");
+            test = new();
+        }
+    }
+}

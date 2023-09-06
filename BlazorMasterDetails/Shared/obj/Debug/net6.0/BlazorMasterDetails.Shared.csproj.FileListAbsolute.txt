@@ -1,0 +1,36 @@
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.deps.json
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.dll
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.pdb
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.csproj.AssemblyReference.cache
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.AssemblyInfoInputs.cache
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.AssemblyInfo.cs
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.csproj.CoreCompileInputs.cache
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.dll
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\refint\BlazorMasterDetails.Shared.dll
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.pdb
+F:\jony\Blazor_M14\Blazor Final Project\My Project\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\ref\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.deps.json
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.pdb
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.AssemblyInfo.cs
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\refint\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.pdb
+C:\Users\student\Desktop\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\ref\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.deps.json
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\bin\Debug\net6.0\BlazorMasterDetails.Shared.pdb
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.AssemblyInfo.cs
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\refint\BlazorMasterDetails.Shared.dll
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\BlazorMasterDetails.Shared.pdb
+C:\Users\student\Desktop\Complete Blazor Project\Project_Blazor\BlazorMasterDetails\BlazorMasterDetails\Shared\obj\Debug\net6.0\ref\BlazorMasterDetails.Shared.dll
